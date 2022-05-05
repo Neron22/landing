@@ -1,0 +1,20 @@
+.social {
+  padding-left: 0px;
+  text-align: left;
+  margin: 0px auto;
+  text-shadow: 0.3px 0.3px 0.3px rgba(133, 131, 131, 0.222);
+}
+.social span {
+  font-size: 1.2rem;
+  color: #1095c1;
+}
+.social li {
+  list-style-type: none;
+  padding: 0px 24px;
+}
+.social ul {
+  padding: 0px;
+}
+.social a{
+  color: #1095c1;
+}
